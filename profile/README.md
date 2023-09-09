@@ -2,7 +2,7 @@
 
 🚀 **KUNLUN Laboratory** 🚀
 
-![KUNLUN Logo](kunlun-logo.png)
+![KUNLUN Logo](https://avatars.githubusercontent.com/u/142441869?s=400&u=2d4ed41d12bc918e7201fd5906f3cc77b8bf41ef&v=4)
 
 KUNLUN Laboratory เป็นทีมที่กำลังพัฒนาและวิจัยในด้าน [ระบบนิเทศ](https://en.wikipedia.org/wiki/Information_system) และ [เทคโนโลยีสารสนเทศ](https://en.wikipedia.org/wiki/Information_technology) ที่มหาวิทยาลัยเกษตรศาสตร์ (Kasetsart University) โดยมีอาจารย์ที่ปรึกษาคือ ดร. ศศิน เทียนดี
 
